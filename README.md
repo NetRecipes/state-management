@@ -2,6 +2,8 @@
 
 **.NET Aspire** + **DAPR** - State Management
 
+## For a written article, refer: [State Management](https://netrecipes.github.io/courses/dapr-aspire/state-management/)
+
 - [x] `In-Memory` State Store
 
 ```yaml
